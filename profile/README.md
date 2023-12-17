@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-    <img src="./ssync.jpg" alt="Markdownify" width="200">
+    <img src="./ssync.jpg" alt="StudentSync" width="200">
   <br>
   StudentSync
   <br>
