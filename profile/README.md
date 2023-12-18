@@ -14,11 +14,11 @@
   <img src="./made-with-react-native.svg">
 </div>
 
-## Sobre
+## Sobre ℹ️
 
 O StudentSync foi um projeto desenvolvido durante o 2ª semestre da turma de 2023.1 de Análise e Desenvolvimento de Sistemas, o mesmo abrange as disciplinas de Engenharia de Software, Estrutura de Dados e Programação Orientada a Objetos. O projeto foi idealizado com base na necessidade que membros do projeto sentiam de organizar seus horários curriculares e extracurriculares da faculdade, visto que ainda não possui algo que coordene isso e outras funcionalidades relacionadas ao tema.
 
-## Funcionalidades
+## Funcionalidades ⚒️
 O nosso escopo abrange as seguintes funcionalidades:
 * Criar, Editar, Ver e Deletar organizações.
 * Criar, Editar, Ver e Deletar compromissos.
@@ -30,20 +30,20 @@ O nosso escopo abrange as seguintes funcionalidades:
 * Notificação de compromissos.
 * Notificação de convites de organizações.
 
-## Tecnologias
+## Tecnologias 💻
 
 As tecnologias principais utilizadas na construção do nosso projeto são as seguintes:
 - ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 - ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 - ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## Repositórios
+## Repositórios 💾
 
 Estes são os links para acessar os nossos repositórios:
 - ![Mobile 📱](https://github.com/StudentSync/StudentSync-mobile/tree/develop)
 - ![Backend 🖥️](https://github.com/StudentSync/StudentSync-api/tree/develop)
 
-## Contribuidores
+## Contribuidores 🫂
 
 Conheça a nossa equipe!
 
